@@ -1,4 +1,4 @@
-hJavaScript Rock Dodger
+JavaScript Rock Dodger
 ---
 
 ## Objectives
